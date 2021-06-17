@@ -9,3 +9,5 @@ file 3-name writes a script that compiles a C file and creates an executable nam
 file 4-puts.c writes a C program that prints exactly "Programming is like building a multilingual puzzle
 
 file 5-printf.c writes a C program that prints a statement using the function printf
+
+file 6-size.c writes a C program that prints the size of various types on the computer it is compiled and executed
