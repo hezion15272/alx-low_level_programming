@@ -7,3 +7,5 @@ file 2-assembler writes a script that generates the assembly code of a C code an
 file 3-name writes a script that compiles a C file and creates an executable name cisfun
 
 file 4-puts.c writes a C program that prints exactly "Programming is like building a multilingual puzzle
+
+file 5-printf.c writes a C program that prints a statement using the function printf
