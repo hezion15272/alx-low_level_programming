@@ -5,8 +5,7 @@
  * main = assigns a random number to int n everytime
  * it analyise the value assign to n
  * and get the last digit
- * it executes, and print the output 
- * betty style doc for function main goes there 
+ * it executes, and print the output
  */
 int main(void)
 {
