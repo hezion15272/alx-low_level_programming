@@ -1,11 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/** main = assigns a random number to int n everytime
+/**
+ * main = assigns a random number to int n everytime
  * it analyise the value assign to n
  * and get the last digit
  * it executes, and print the output 
- * betty style doc for function main goes there */
+ * betty style doc for function main goes there 
+ */
 int main(void)
 {
 	int n;
