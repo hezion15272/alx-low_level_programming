@@ -1,20 +1,18 @@
 #include "holberton.h"
 
 /**
- * main - check the code for the ALX School student.
- *
- * Return: Always 0.
+ * print_alphabet - prints the alphabet in lowercase, followed by a newline
  */
 void print_alphabet(void)
 {
-	int ch;
+	char ch;
 
 	ch = 'a';
 
 	while (ch <= 'z')
 	{
 		_putchar(ch);
-		ch++
+		ch++;
 	}
 	_putchar('\n');
 }
