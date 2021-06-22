@@ -27,4 +27,6 @@ int add();
 
 void print_to_98();
 
+void print_times_table();
+
 #endif
