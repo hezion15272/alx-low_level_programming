@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main- contains a program to print Holberton
- * return- always return 0
+ * Return: Always returns 0 (Success)
  */
 int main(void)
 {
