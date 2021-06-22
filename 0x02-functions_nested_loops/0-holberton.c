@@ -1,5 +1,5 @@
 #include <stdio.h>
-/** 
+/**
  * main- contains a program to print Holberton
  * return- always return 0
  */
