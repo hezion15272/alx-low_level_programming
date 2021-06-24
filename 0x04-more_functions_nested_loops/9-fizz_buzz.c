@@ -4,8 +4,8 @@
 /**
  * main - prints the numbers from 1 to 100, followed by a new line
  * but for multiples of three prints Fizz instead of the number
- * and for the muitiples of five prints Buzz
- * Return: Always 0 (sucess)
+ * and for the multiples of five prints Buzz
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -31,4 +31,6 @@ int main(void)
 		}
 	}
 	printf("\n");
+
+	return (0);
 }
