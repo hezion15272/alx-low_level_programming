@@ -13,3 +13,7 @@ file 5-strstr.c writes a function that locates a substring.
 file 7-print_chessboard.c writes a function that prints the chessboard.
 
 file 8-print_diagsums.c writes a function that prints the sum of the two diagonals of a square matrix of integers.
+
+file 100-set_string.c writes a function that sets the value of a pointer to char.
+
+
