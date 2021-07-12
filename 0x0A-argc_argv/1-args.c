@@ -5,7 +5,7 @@
  * @argv: displays an array of arguments recieved
  * Return: Always 0 (Success)
  */
-int main(int argc, char *agv[] __attribute__((unused)))
+int main(int argc, char *argv[]__attribute__((unused)))
 {
 	print("%d\n", argc -1);
 	return (0);
