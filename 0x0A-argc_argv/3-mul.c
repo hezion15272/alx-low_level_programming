@@ -8,6 +8,8 @@
  *
  * Return: always 0 (Success)
  */
+int main(int argc, char *argv[])
+{
 int i = argc - 1;
 if (i != 2)
 {
