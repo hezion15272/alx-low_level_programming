@@ -8,4 +8,6 @@ file 3-mul.c writes a program that multiplies two numbers
 
 file 4-add.c writes a program that adds positive numbers
 
+file 100-change.c writes a program that prints the minimum number of coints to make change for an amount of money.
+
 
