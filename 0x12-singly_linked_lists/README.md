@@ -1,8 +1,8 @@
 # 0x11. C - Singly linked lists
 ## About
 An Introductory project on:
-	- How to create a linked lists
-	- The difference between linked lists and arrays
+- How to create a linked lists
+- The difference between linked lists and arrays
 ## Requirements
 - Ubuntu 14.04
 - using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
